@@ -1,0 +1,26 @@
+[
+  {
+    "title": "My Portfolio",
+    "imageSrc": "projects/project.png",
+    "description":"Crafted a sleek and responsive portfolio website using React,CSS, and Figma.Showcase skills,projects, and experiences in a visually engaging manner. Demonstrates expertise in front-end development and UI/UX design.",
+    "skills": ["React", "HTML", "CSS","Figma"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Event Management System",
+    "imageSrc": "projects/project.png",
+    "description": "Develop a comprehensive event management system using PHP,MYSQL and HTML/CSS, enabling efficient event planning , scheduling and attendee management.",
+    "skills": ["PHP", "SQL", "HTML", "CSS"],
+    "demo": "#",
+    "source": "#"
+  },
+  {
+    "title": "Ebook Website",
+    "imageSrc": "projects/project.png",
+    "description": "Created  an Ebook website with bootstrap, javascript, html and css .Demonstrate strong skill in front-end development and design.",
+    "skills": ["Javascript", "HTML", "CSS", "Bootstrap"],
+    "demo": "https://www.example.com",
+    "source": "#"
+  }]
+

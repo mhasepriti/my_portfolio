@@ -1,0 +1,70 @@
+@import "../../vars.css";
+
+.container{
+    position: relative;
+    background-color: rgba(12,12,12,0.6);
+    border-radius: 15px;
+    padding: 73px;
+    margin-top: 129px;
+    z-index: 1;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.title{
+    color: var(--color-text);
+    font-size: 35px;
+    font-weight: 700;
+    letter-spacing: 1.75px;
+    text-transform: uppercase;
+}
+
+.content{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.aboutImage{
+    width: 35%;
+}
+
+.aboutItems{
+    color: var(--color-text);
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    font-size: 20px;
+}
+.resume{
+    text-decoration: none;
+    background-color: var(--color-primary);
+    color: var(--color-text);
+    border-radius: 100px;
+    font-size: 30px;
+    font-weight: 600;
+    padding: 17px 26px;
+    box-shadow: 0 0 4px 0 rgba(0,0,0,0.25);
+}
+.resume:hover{
+   background-color: blue;
+}
+
+@media screen and (max-width: 830px) {
+    .container{
+        background-color: transparent;
+        padding-left: 0;
+        padding-right: 0;
+        margin-top: 80px;
+    }
+    .content{
+        flex-direction: column;
+    }
+    .aboutImage{
+        display: none;
+    }
+    .aboutItems{
+        margin-top: 29px;
+    }
+
+    
+}

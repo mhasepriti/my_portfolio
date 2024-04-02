@@ -1,0 +1,26 @@
+[
+  {
+    "education": "BSc. Computer Science",
+    "organisation": "Savitribai Phule Pune University",
+    "startDate": "Sept, 2020",
+    "endDate": "Jul, 2023",
+    "percentage": "8.55 CGPA",
+    "imageSrc": "history/google.png"
+  },
+  {
+    "education": "HSC",
+    "organisation": "Savitribai Phule Pune University",
+    "startDate": "Jun, 2019",
+    "endDate": "Jul, 2020",
+    "percentage": "71.23%",
+    "imageSrc": "history/microsoft.png"
+  },
+  {
+    "education": "SSC",
+    "organisation": "Savitribai Phule Pune University",
+    "startDate": "Jun, 2017",
+    "endDate": "Jun, 2018",
+    "percentage":"79.80%",
+    "imageSrc": "history/netflix.png"
+  }
+]
